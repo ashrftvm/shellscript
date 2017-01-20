@@ -30,3 +30,9 @@ do
 Done
 
 find / -iname "*.mp3" -exec mv {} /mnt/mp3 \;
+
+
+
+
+# updates checking
+# ----------------------------
